@@ -11,15 +11,11 @@ desc: runrunlily's blog
 
 custom:
     category:
-        cv: CV
         video: video
         illustration: Illustration
         photography: Photography
         you: you
     categories:
-      - name:  cv
-        title: CV
-
       - name:  video
         title: video
 
